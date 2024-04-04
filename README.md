@@ -15,6 +15,8 @@ This Python script provides a command-line interface for interacting with the Ne
 - Get available tags for file, mail, or URL reports
 - Unsubscribe from notification emails
 
+## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
 ## Prerequisites
 
 - Python 3.x
