@@ -1,6 +1,10 @@
+<div align="center">
+
 # Netcraft API Client
 
 This Python script provides a command-line interface for interacting with the Netcraft API. It allows users to perform various actions such as reporting malicious URLs, malicious emails, and incorrectly blocked URLs, as well as retrieving details about submitted reports.
+
+</div>
 
 ## Features
 
@@ -15,7 +19,11 @@ This Python script provides a command-line interface for interacting with the Ne
 - Get available tags for file, mail, or URL reports
 - Unsubscribe from notification emails
 
+<div align="center">
+
 ## ☕ [Support my work on Ko-Fi](https://ko-fi.com/thatsinewave)
+
+</div>
 
 ## Prerequisites
 
