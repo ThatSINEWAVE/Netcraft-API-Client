@@ -30,6 +30,12 @@ This Python script provides a command-line interface for interacting with the Ne
 - Python 3.x
 - `requests` library (install using `pip install requests`)
 
+<div align="center">
+
+# [Join my discord server](https://discord.gg/2nHHHBWNDw)
+
+</div>
+
 ## Usage
 
 1. Clone or download the repository.
